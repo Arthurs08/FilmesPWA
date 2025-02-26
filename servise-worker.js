@@ -1,4 +1,4 @@
-const cacheName = 'movie-catalog-cache-v1';
+const cacheName = 'movie-catalog-cache-v2';
 const assets = [
     '/',
     '/index.html',
