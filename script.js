@@ -54,5 +54,9 @@ searchInput.addEventListener('input', () => {
     }
 });
 
+if ('serviceWorker' in navigator) {  
+    navigator.serviceWorker.register("./service-worker.js");
+}
+
 // Carrega filmes iniciais
 fetchMovies('batman'); // Exemplo de busca inicial
