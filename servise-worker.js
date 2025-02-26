@@ -5,8 +5,9 @@ const assets = [
     '/style.css',
     '/script.js',
     '/manifest.json',
-    '/icon-192x192.png',
-    '/icon-512x512.png'
+    '/imagem192.png',
+    '/imagem512.png',
+    '/ea8d11f1ffc6355b8a440106ce61d0f3.jpg'
 ];
 
 // Instalando o Service Worker
